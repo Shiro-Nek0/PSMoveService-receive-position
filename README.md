@@ -10,7 +10,7 @@ In the files "VirtualController_ID.json" you can change the controller index the
 3. Run "PSMoveService", "PSMoveConfigTool" and configure according to the instructions [[1]](https://github.com/cboulay/PSMoveService/wiki/Virtual-HMDs)[[2]](https://github.com/HipsterSloth/PSVRTracker/wiki/Virtual-HMD-Setup)[[3]](https://github.com/cboulay/PSMoveService/wiki/Color-Filter-Calibration)[[4]](https://github.com/cboulay/PSMoveService/wiki/Tracker-Pose-Calibration).<br>
 Then you can use the example and use the position tracking data.
 
-*Remember to manually add the .lib from thirdparty\lib\x86\debug to VSC also copy the dll in the same folder to the builded .exe folder
+*Remember to manually add the .lib from thirdparty\lib\x86\debug to VSC also copy the dll in the same folder to the built .exe folder
 
 # PSMoveService получение позиционирования
 Получение данных позиционирования трекеров. В качестве трекеров могут использоваться пинг понг шарики со светодиодом или Playstation Move контроллеры.
